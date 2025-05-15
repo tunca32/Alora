@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285975013070",
+    "project_id": "aloraapp32",
+    "storage_bucket": "aloraapp32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285975013070:android:222e3324fe4c859096929f",
+        "android_client_info": {
+          "package_name": "com.example.alora_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcJ4Ag-ABN5I0XJmsLCEdZAHd18Gr2YlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
