@@ -21,19 +21,4 @@ Flutter & Firebase ile geliştirilmiş mobil uygulama projesi. Uygulama, ikinci 
 - **Firebase Core** – Firebase bağlantısı
 - **Dart** – Flutter uygulama dili
 
-## 📁 Proje Yapısı
-
-```bash
-lib/
-├── screens/
-│   ├── login_screen.dart
-│   ├── welcome_screen.dart
-│   ├── stores_screen.dart
-│   ├── store_add_product_screen.dart
-│   └── store_product_list_screen.dart
-├── widgets/
-│   └── ... (varsa özel widget'lar)
-├── models/
-│   └── ... (kullanıldıysa veri modelleri)
-└── main.dart
 
